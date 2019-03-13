@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>shell-paths</name>
+  <description>This project provides path utilities with shell-like behavior.</description>
+  <url>https://github.com/topobyte/shell-paths</url>
+</project>
