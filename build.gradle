@@ -25,6 +25,7 @@ repositories {
 }
 
 dependencies {
+    compile 'de.topobyte:system-utils:0.0.1'
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
